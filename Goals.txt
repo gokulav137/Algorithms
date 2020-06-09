@@ -1,0 +1,43 @@
+COURSES & BOOKS-
+	Basics:
+		Probablity and Stats
+		DSA
+	Coding:
+		C++ primer
+		CPP Coding Std
+		PEP 8
+		SQL
+	Specialized Coding:
+		Seaborn
+		Web Scrapping
+	Data Science:
+		Python for Data Analysis
+		Python for Data Analysis specialization
+		Data Science Skinea
+		Mining Massive Data Sets
+	ML:
+		Andrew Ng ML
+		PRML
+	DL:
+		DL Specialization
+		Tensorflow
+PROJECTS-
+	NLP:
+		Bag of words
+		LSTM
+		BERT
+		GTP-2
+	CNN:
+		Style Transfer
+		Recognition
+	RL:
+		XO
+	Programming:
+		Anki
+		DSA emulations
+CHALLENGES-
+	Data Science:
+		Kaggle
+		Hackathon-Analytics vidhya
+	Programming:
+		CodeChef
